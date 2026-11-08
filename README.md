@@ -1,34 +1,25 @@
-# AI Growth Studio
+# Genialo Schenken – Website-Entwurf
 
-A responsive German-language landing page for a small AI-assisted marketing service.
+Unverbindlicher Website-Entwurf für den Laden in Bardenberg. Dies ist noch keine offizielle Website des Geschäfts.
 
-## What's included
+## Projektstatus
 
-- Responsive landing page
-- Service overview for local businesses
-- Interactive content-draft demo (runs in the browser)
-- No paid API or API key required
+Die bestehende Landingpage wurde zunächst auf den Projektnamen **Genialo Schenken** umgestellt. Der eigentliche Neuaufbau mit freigegebenen Geschäftsinformationen und passenden Bildern folgt.
 
-## Important demo note
+## Wichtig
 
-The content generator is currently **template-based**, not connected to a live AI model. It creates editable sample copy locally in the browser. Do not present generated drafts as verified business facts. This project is an independent demo and is not an official website for any business.
+- Keine fremden Logos, Fotos oder geschützten Inhalte ohne Erlaubnis verwenden.
+- Öffnungszeiten, Sortiment, Preise und Kontaktdaten erst nach Bestätigung durch den Laden eintragen.
+- Die Website zunächst klar als Demo kennzeichnen.
 
-## Run locally
+## Lokal ansehen
 
-Open `index.html` in a browser.
+`index.html` im Browser öffnen.
 
-## Publish with GitHub Pages
+## GitHub Pages
 
-1. Open the repository's **Settings**.
-2. Choose **Pages** in the left sidebar.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select branch `main` and folder `/ (root)`, then save.
-5. Wait for GitHub Pages to publish the site. The URL will appear in the Pages settings.
-
-You can also deploy the repository with Cloudflare Pages using the GitHub connection and the repository root as the project directory. No build command is needed.
-
-## Next steps
-
-- Replace example copy with approved client-specific information.
-- Add real contact details only after the business has approved them.
-- Connect an AI model only if a suitable free option and its usage limits are confirmed.
+1. Repository **Settings** öffnen.
+2. Links **Pages** auswählen.
+3. **Deploy from a branch** auswählen.
+4. `main` und `/ (root)` auswählen und speichern.
+5. Nach dem Veröffentlichen erscheint die Website-Adresse in den Pages-Einstellungen.
